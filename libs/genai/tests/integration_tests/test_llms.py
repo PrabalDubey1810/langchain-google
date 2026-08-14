@@ -2,7 +2,6 @@
 
 Chat model tests are in `test_chat_models.py` and use `ChatGoogleGenerativeAI`.
 """
-
 import os
 from collections.abc import Generator
 
